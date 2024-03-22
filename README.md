@@ -153,17 +153,10 @@ plt.show()
 ### v)Image Rotation
 ![image](https://github.com/lathishlathish/IMAGE-TRANSFORMATIONS/assets/120359170/8ccd6190-0a49-481c-9992-a7ddb5758285)
 
-
-
 ### Original
-
 ![image](https://github.com/lathishlathish/IMAGE-TRANSFORMATIONS/assets/120359170/d502ed80-90ff-429f-9d08-d17b11423e16)
-
 ### Cropped
-
 ![image](https://github.com/lathishlathish/IMAGE-TRANSFORMATIONS/assets/120359170/45060737-e2b8-4ab2-a64c-f7941ae338b0)
-
-
 
 ## Result: 
 
