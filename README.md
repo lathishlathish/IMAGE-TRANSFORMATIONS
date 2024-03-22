@@ -155,10 +155,11 @@ plt.show()
 
 
 
-Original
+### Original
 
+![image](https://github.com/lathishlathish/IMAGE-TRANSFORMATIONS/assets/120359170/d502ed80-90ff-429f-9d08-d17b11423e16)
 
-Cropped
+### Cropped
 
 ![image](https://github.com/lathishlathish/IMAGE-TRANSFORMATIONS/assets/120359170/45060737-e2b8-4ab2-a64c-f7941ae338b0)
 
